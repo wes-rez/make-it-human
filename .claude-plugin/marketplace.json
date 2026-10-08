@@ -1,0 +1,13 @@
+{
+  "name": "make-it-human",
+  "owner": {
+    "name": "Rez Media"
+  },
+  "plugins": [
+    {
+      "name": "make-it-human",
+      "source": "./",
+      "description": "Rewrites AI-generated text so it reads human, and writes ad scripts and captions in a brand's voice."
+    }
+  ]
+}

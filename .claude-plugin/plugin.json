@@ -1,0 +1,8 @@
+{
+  "name": "make-it-human",
+  "version": "2.0.0",
+  "description": "Rewrites AI-generated text so it reads human, and writes ad scripts and captions in a brand's voice with the persuasion beats a human ad writer adds.",
+  "author": {
+    "name": "Rez Media"
+  }
+}
